@@ -1,5 +1,5 @@
 ﻿<#
-.SYNOPSIS
+.SYNOPSIS 
 	Sets the working directory to the user's NextCloud folder
 .DESCRIPTION
 	This PowerShell script changes the working directory to the user's NextCloud folder.
