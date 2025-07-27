@@ -23,7 +23,7 @@ PS> ./add-memo.ps1 [[-text] <String>] [<CommonParameters>]
 ```
 
 Example
--------
+------- 
 ```powershell
 PS> ./add-memo.ps1 "Buy apples"
 ✔️ saved to 📄/home/markus/Memos.csv
